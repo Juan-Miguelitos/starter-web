@@ -16,4 +16,4 @@ Deployement paragraph
 
 ## How to contribute
 
-Bla bla bla
+This is how to contribute !!!
