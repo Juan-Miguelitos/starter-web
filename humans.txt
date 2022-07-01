@@ -7,7 +7,7 @@
  
 # THANKS
 
-    <name>
+    thanks mfs
 
 # TECHNOLOGY COLOPHON
 
