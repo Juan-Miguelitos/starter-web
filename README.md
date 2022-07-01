@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Introduction paragraph; adding a line for rebasing
+Introduction paragraph; adding a line for rebasing, more changes from feature branch
+
 
 ## Purpose
 
