@@ -16,6 +16,6 @@ Deployement paragraph
 
 ## How to contribute
 
-This is how to contribute !!!
+Please fork this repository and then issue pull request for review
 
 2022 Copyright Git.training
