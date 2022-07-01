@@ -17,3 +17,5 @@ Deployement paragraph
 ## How to contribute
 
 This is how to contribute !!!
+
+2022 Copyright Git.training
