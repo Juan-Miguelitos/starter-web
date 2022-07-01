@@ -19,4 +19,6 @@ Deployement paragraph
 
 Please fork this repository and then issue pull request for review
 
-2022 Copyright Git.training
+### Copyright
+
+2022 Copyright Git.training; ALL RIGHTS RESERVED
